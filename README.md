@@ -2,4 +2,3 @@
 Work Time Tracker
 
 Gerenciador de horário de trabalho para ser utilizado no navegador.
-![screen-capture](screen-capture.png)
